@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 This project implements a **Student Academic Performance Analysis System** using
 Python fundamentals. The system stores, processes, and analyzes student academic
 records and provides insights such as graduation eligibility and top-performing
@@ -20,7 +20,7 @@ GSE301, organized into a real-world academic workflow.
 
 ---
 
-## 🧠 Concepts Demonstrated
+##  Concepts Demonstrated
 ✔ Variables and data types  
 ✔ Lists, dictionaries, tuples, and sets  
 ✔ Conditional statements (if / elif / else)  
@@ -33,7 +33,7 @@ GSE301, organized into a real-world academic workflow.
 ✔ Interactive menu system  
 ✔ Nested dictionary processing  
 
----
+
 
 gse301-python-project/
 │
@@ -46,14 +46,10 @@ gse301-python-project/
 └── eligibility.png
 
 
----
-
-## ▶️ How to Run the Project
+## How to Run the Project
 
 ### Option 1: Google Colab (Recommended)
 1. Open the notebook:
    `GSE301_Student_Academic_Performance.ipynb`
 2. Run all cells
 3. Use the interactive buttons to explore the system
-
-## 🗂 Project Structure
